@@ -54,7 +54,7 @@
 	background: rgba(25,255,167,0.30); /*#2E2F3B; #2CAEFA; #71E38F;*/
 	margin-bottom:0px;
 	margin-left:0px;
-	height:350px;
+	height:260px;
 	text-align: center;
 	border:0px;
 }
@@ -78,7 +78,7 @@
 	border:0px;
 	margin:0px;
 	padding:0px;
-	height:400px;
+	height:260px;
 	background-color:rgba(25,255,167,0.30);
 	/*background: #EAFFFE*/	
 }
@@ -218,7 +218,7 @@ nav ul li{
 }
 
 #latestpods{
-	background: white;
+	background: #FCF9FC;
 	height:900px;
 }
 
@@ -270,6 +270,12 @@ fieldset{
 	padding-top: 25px;
 	padding-bottom: 25px;
 	/*margin-top: 10px;*/
+}
+
+#topform{
+	text-align: center;
+	border: 1px solid gray;
+	margin-right:30px;
 }
 
 
@@ -330,7 +336,7 @@ input:focus{
 	font-size:12pt;
 	background: white;/*#557AA0;*/
 	color:black;
-	border-top: 1px solid #2E2F3B;
+	border-top: 0px solid #2E2F3B;
 }
 
 #aboutTitle{
@@ -354,7 +360,7 @@ input:focus{
 	font-size:12pt;
 	background:white;
 	color:black;
-	border-top: 1px solid #2E2F3B;
+	border-top: 0px solid #2E2F3B;
 }
 
 
